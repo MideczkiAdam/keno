@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keno_wpf", "keno_wpf.csproj", "{3E1E476C-1119-45FB-9D28-8000C7953BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1E476C-1119-45FB-9D28-8000C7953BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1E476C-1119-45FB-9D28-8000C7953BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1E476C-1119-45FB-9D28-8000C7953BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1E476C-1119-45FB-9D28-8000C7953BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA6542A-1C8A-4664-9FA0-85A4BB429D10}
+	EndGlobalSection
+EndGlobal
